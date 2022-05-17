@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.pessoas.mvp.CadastroPessoasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.227 s - in br.com.pessoas.mvp.CadastroPessoasApplicationTests
