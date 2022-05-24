@@ -1,5 +1,6 @@
 package br.com.pessoas.mvp.dto;
 
+import lombok.Builder;
 import lombok.Data;
 
 import javax.validation.constraints.Max;
@@ -7,6 +8,7 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotBlank;
 
 @Data
+@Builder
 public class PeopleDTO {
     @NotBlank(message = "Nome não pode ser em branco.")
     private String name;
